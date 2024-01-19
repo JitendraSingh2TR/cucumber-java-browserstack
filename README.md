@@ -9,7 +9,7 @@
 
 ## Using Maven
 
-### Run sample build
+### Run sample build again
 
 - Clone the repository
 - Replace YOUR_USERNAME and YOUR_ACCESS_KEY with your BrowserStack access credentials in browserstack.yml.
